@@ -1,0 +1,15 @@
+
+
+.galeria img{
+    width: 100%;
+    padding-top: 20px;
+}
+
+
+.galeria img:hover{
+    border: 5px solid #fff;
+}
+
+.card h4{
+    padding-top: 10px;
+}
